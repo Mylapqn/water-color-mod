@@ -4,7 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e30e908-d440-49b0-9ca3-f7e5f4f65fb2" name="Changes" comment="" />
+    <list default="true" id="1e30e908-d440-49b0-9ca3-f7e5f4f65fb2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/thirst/models/item/terracotta_water_bowl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/thirst/models/item/wooden_water_bowl.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.2.1/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.1/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.2.1/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.1/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.2.1/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.1/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/water-color-mod.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/water-color-mod.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/sources/modMetadata/META-INF/neoforge.mods.toml" beforeDir="false" afterPath="$PROJECT_DIR$/build/generated/sources/modMetadata/META-INF/neoforge.mods.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/moddev/clientLegacyClasspath.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/moddev/clientLegacyClasspath.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/moddev/clientLog4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/moddev/clientLog4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/moddev/clientRunProgramArgs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/moddev/clientRunProgramArgs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/moddev/clientRunVmArgs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/moddev/clientRunVmArgs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/moddev/dataLegacyClasspath.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/moddev/dataLegacyClasspath.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/moddev/dataLog4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/moddev/dataLog4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/moddev/dataRunProgramArgs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/moddev/dataRunProgramArgs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/moddev/dataRunVmArgs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/moddev/dataRunVmArgs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/moddev/gameTestServerLegacyClasspath.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/moddev/gameTestServerLegacyClasspath.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/moddev/gameTestServerLog4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/moddev/gameTestServerLog4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/moddev/gameTestServerRunProgramArgs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/moddev/gameTestServerRunProgramArgs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/moddev/gameTestServerRunVmArgs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/moddev/gameTestServerRunVmArgs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/moddev/minecraft_assets.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/moddev/minecraft_assets.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/moddev/serverLegacyClasspath.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/moddev/serverLegacyClasspath.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/moddev/serverLog4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/moddev/serverLog4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/moddev/serverRunProgramArgs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/moddev/serverRunProgramArgs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/moddev/serverRunVmArgs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/moddev/serverRunVmArgs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/problems/problems-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/problems/problems-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/META-INF/neoforge.mods.toml" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/META-INF/neoforge.mods.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/createMinecraftArtifacts/nfrt_artifact_manifest.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/createMinecraftArtifacts/nfrt_artifact_manifest.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/downloadAssets/nfrt_artifact_manifest.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/downloadAssets/nfrt_artifact_manifest.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mylapqn/thirstwatercolor/client/ClientModEvents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mylapqn/thirstwatercolor/client/ClientModEvents.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,29 +93,107 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0054861127958516" />
+      <entry key="MS500" value="1.3530636053904825" />
+      <entry key="S2" value="1.783111175504077" />
+      <entry key="S5" value="2.2044765465528595" />
+      <entry key="S10" value="2.8846948342190544" />
+      <entry key="S30" value="4.034882490454638" />
+      <entry key="S60" value="4.61992636258857" />
+      <entry key="M2" value="5.120379817589802" />
+      <entry key="M5" value="5.579809587786213" />
+      <entry key="M10" value="5.775760447005215" />
+      <entry key="M15" value="5.847118415375458" />
+      <entry key="M30" value="5.921798920681213" />
+      <entry key="H1" value="5.960446543843588" />
+      <entry key="H2" value="5.980108394942172" />
+      <entry key="H4" value="5.99002526954314" />
+      <entry key="D1" value="5.998333509316765" />
+      <entry key="W1" value="5.999761830837715" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="5.963028445179427E-55" />
+      <entry key="MS500" value="1.4292012132695386E-11" />
+      <entry key="S2" value="0.0019443450735754232" />
+      <entry key="S5" value="0.08232075362420527" />
+      <entry key="S10" value="0.28691593476871463" />
+      <entry key="S30" value="0.6595558189536902" />
+      <entry key="S60" value="0.8121304199164627" />
+      <entry key="M2" value="0.9011827894031615" />
+      <entry key="M5" value="0.9592353069384553" />
+      <entry key="M10" value="0.979405588578325" />
+      <entry key="M15" value="0.9862228302567452" />
+      <entry key="M30" value="0.9930875239659119" />
+      <entry key="H1" value="0.9965377684593353" />
+      <entry key="H2" value="0.9982673832492653" />
+      <entry key="H4" value="0.9991333160541014" />
+      <entry key="D1" value="0.9998555004854653" />
+      <entry key="W1" value="0.999979355933721" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.06839335632879621" />
+      <entry key="MS500" value="0.584793951221228" />
+      <entry key="S2" value="0.9021807081526065" />
+      <entry key="S5" value="1.4672929800772283" />
+      <entry key="S10" value="2.528639452630043" />
+      <entry key="S30" value="4.3792184180562455" />
+      <entry key="S60" value="5.2562032096980005" />
+      <entry key="M2" value="5.928476303084286" />
+      <entry key="M5" value="6.500482795891911" />
+      <entry key="M10" value="6.735655538981295" />
+      <entry key="M15" value="6.8202826204402305" />
+      <entry key="M30" value="6.908331154939395" />
+      <entry key="H1" value="6.953700142182775" />
+      <entry key="H2" value="6.976732057909438" />
+      <entry key="H4" value="6.988336316160563" />
+      <entry key="D1" value="6.998051908007795" />
+      <entry key="W1" value="6.999721599407075" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3,
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3J4uXHKCaMmMzyB4b8IUXXrIBmr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.water-color-mod [build].executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Files/Projects/water-color-mod/libs&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Files/Projects/water-color-mod/libs/src/main/java/com/mylapqn/thirstwatercolor/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.water-color-mod [:net.neoforged.devlaunch.Main.main()].executor": "Run",
+    "Gradle.water-color-mod [build].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Files/Projects/Minecraft Mods/water-color-mod",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Files/Projects/water-color-mod/libs/src/main/java/com/mylapqn/thirstwatercolor/Main.java",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Files\Projects\water-color-mod\libs" />
@@ -83,12 +201,12 @@
       <recent name="C:\Files\Projects\water-color-mod\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.water-color-mod [build]">
+  <component name="RunManager" selected="Application.Client">
     <configuration name="Client" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="net.neoforged.devlaunch.Main" />
       <module name="water-color-mod.main" />
-      <option name="PROGRAM_PARAMETERS" value="@C:\\Files\\Projects\\water-color-mod\\build\\moddev\\clientRunProgramArgs.txt" />
-      <option name="VM_PARAMETERS" value="@C:\\Files\\Projects\\water-color-mod\\build\\moddev\\clientRunVmArgs.txt -Dfml.modFolders=thirstwatercolor%%C:\\Files\\Projects\\water-color-mod\\build\\classes\\java\\main;thirstwatercolor%%C:\\Files\\Projects\\water-color-mod\\build\\resources\\main" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;@D:\\Files\\Projects\\Minecraft Mods\\water-color-mod\\build\\moddev\\clientRunProgramArgs.txt&quot;" />
+      <option name="VM_PARAMETERS" value="&quot;@D:\\Files\\Projects\\Minecraft Mods\\water-color-mod\\build\\moddev\\clientRunVmArgs.txt&quot; &quot;-Dfml.modFolders=thirstwatercolor%%D:\\Files\\Projects\\Minecraft Mods\\water-color-mod\\build\\classes\\java\\main;thirstwatercolor%%D:\\Files\\Projects\\Minecraft Mods\\water-color-mod\\build\\resources\\main&quot;" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,8 +215,8 @@
     <configuration name="Data" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="net.neoforged.devlaunch.Main" />
       <module name="water-color-mod.main" />
-      <option name="PROGRAM_PARAMETERS" value="@C:\\Files\\Projects\\water-color-mod\\build\\moddev\\dataRunProgramArgs.txt" />
-      <option name="VM_PARAMETERS" value="@C:\\Files\\Projects\\water-color-mod\\build\\moddev\\dataRunVmArgs.txt -Dfml.modFolders=thirstwatercolor%%C:\\Files\\Projects\\water-color-mod\\build\\classes\\java\\main;thirstwatercolor%%C:\\Files\\Projects\\water-color-mod\\build\\resources\\main" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;@D:\\Files\\Projects\\Minecraft Mods\\water-color-mod\\build\\moddev\\dataRunProgramArgs.txt&quot;" />
+      <option name="VM_PARAMETERS" value="&quot;@D:\\Files\\Projects\\Minecraft Mods\\water-color-mod\\build\\moddev\\dataRunVmArgs.txt&quot; &quot;-Dfml.modFolders=thirstwatercolor%%D:\\Files\\Projects\\Minecraft Mods\\water-color-mod\\build\\classes\\java\\main;thirstwatercolor%%D:\\Files\\Projects\\Minecraft Mods\\water-color-mod\\build\\resources\\main&quot;" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -107,8 +225,8 @@
     <configuration name="GameTestServer" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="net.neoforged.devlaunch.Main" />
       <module name="water-color-mod.main" />
-      <option name="PROGRAM_PARAMETERS" value="@C:\\Files\\Projects\\water-color-mod\\build\\moddev\\gameTestServerRunProgramArgs.txt" />
-      <option name="VM_PARAMETERS" value="@C:\\Files\\Projects\\water-color-mod\\build\\moddev\\gameTestServerRunVmArgs.txt -Dfml.modFolders=thirstwatercolor%%C:\\Files\\Projects\\water-color-mod\\build\\classes\\java\\main;thirstwatercolor%%C:\\Files\\Projects\\water-color-mod\\build\\resources\\main" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;@D:\\Files\\Projects\\Minecraft Mods\\water-color-mod\\build\\moddev\\gameTestServerRunProgramArgs.txt&quot;" />
+      <option name="VM_PARAMETERS" value="&quot;@D:\\Files\\Projects\\Minecraft Mods\\water-color-mod\\build\\moddev\\gameTestServerRunVmArgs.txt&quot; &quot;-Dfml.modFolders=thirstwatercolor%%D:\\Files\\Projects\\Minecraft Mods\\water-color-mod\\build\\classes\\java\\main;thirstwatercolor%%D:\\Files\\Projects\\Minecraft Mods\\water-color-mod\\build\\resources\\main&quot;" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -117,8 +235,8 @@
     <configuration name="Server" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="net.neoforged.devlaunch.Main" />
       <module name="water-color-mod.main" />
-      <option name="PROGRAM_PARAMETERS" value="@C:\\Files\\Projects\\water-color-mod\\build\\moddev\\serverRunProgramArgs.txt" />
-      <option name="VM_PARAMETERS" value="@C:\\Files\\Projects\\water-color-mod\\build\\moddev\\serverRunVmArgs.txt -Dfml.modFolders=thirstwatercolor%%C:\\Files\\Projects\\water-color-mod\\build\\classes\\java\\main;thirstwatercolor%%C:\\Files\\Projects\\water-color-mod\\build\\resources\\main" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;@D:\\Files\\Projects\\Minecraft Mods\\water-color-mod\\build\\moddev\\serverRunProgramArgs.txt&quot;" />
+      <option name="VM_PARAMETERS" value="&quot;@D:\\Files\\Projects\\Minecraft Mods\\water-color-mod\\build\\moddev\\serverRunVmArgs.txt&quot; &quot;-Dfml.modFolders=thirstwatercolor%%D:\\Files\\Projects\\Minecraft Mods\\water-color-mod\\build\\classes\\java\\main;thirstwatercolor%%D:\\Files\\Projects\\Minecraft Mods\\water-color-mod\\build\\resources\\main&quot;" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -158,8 +276,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
-        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10315.125" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10315.125" />
       </set>
     </attachedChunks>
   </component>
@@ -186,5 +304,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
