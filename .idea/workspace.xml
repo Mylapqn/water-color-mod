@@ -5,45 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e30e908-d440-49b0-9ca3-f7e5f4f65fb2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/thirst/models/item/terracotta_water_bowl.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/thirst/models/item/wooden_water_bowl.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/9.2.1/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.1/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/9.2.1/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.1/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/9.2.1/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.1/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/9.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/9.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/9.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/9.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/9.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/water-color-mod.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/water-color-mod.main.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/generated/sources/modMetadata/META-INF/neoforge.mods.toml" beforeDir="false" afterPath="$PROJECT_DIR$/build/generated/sources/modMetadata/META-INF/neoforge.mods.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/moddev/clientLegacyClasspath.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/moddev/clientLegacyClasspath.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/moddev/clientLog4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/moddev/clientLog4j2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/moddev/clientRunProgramArgs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/moddev/clientRunProgramArgs.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/moddev/clientRunVmArgs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/moddev/clientRunVmArgs.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/moddev/dataLegacyClasspath.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/moddev/dataLegacyClasspath.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/moddev/dataLog4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/moddev/dataLog4j2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/moddev/dataRunProgramArgs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/moddev/dataRunProgramArgs.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/moddev/dataRunVmArgs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/moddev/dataRunVmArgs.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/moddev/gameTestServerLegacyClasspath.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/moddev/gameTestServerLegacyClasspath.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/moddev/gameTestServerLog4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/moddev/gameTestServerLog4j2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/moddev/gameTestServerRunProgramArgs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/moddev/gameTestServerRunProgramArgs.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/moddev/gameTestServerRunVmArgs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/moddev/gameTestServerRunVmArgs.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/moddev/minecraft_assets.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/moddev/minecraft_assets.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/moddev/serverLegacyClasspath.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/moddev/serverLegacyClasspath.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/moddev/serverLog4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/moddev/serverLog4j2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/moddev/serverRunProgramArgs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/moddev/serverRunProgramArgs.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/moddev/serverRunVmArgs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/moddev/serverRunVmArgs.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/problems/problems-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/problems/problems-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/META-INF/neoforge.mods.toml" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/META-INF/neoforge.mods.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/createMinecraftArtifacts/nfrt_artifact_manifest.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/createMinecraftArtifacts/nfrt_artifact_manifest.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/downloadAssets/nfrt_artifact_manifest.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/downloadAssets/nfrt_artifact_manifest.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mylapqn/thirstwatercolor/client/ClientModEvents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mylapqn/thirstwatercolor/client/ClientModEvents.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,9 +140,12 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Files/Projects/Minecraft Mods/water-color-mod",
     "node.js.detected.package.eslint": "true",
@@ -191,7 +156,8 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Files/Projects/water-color-mod/libs/src/main/java/com/mylapqn/thirstwatercolor/Main.java",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "to.speed.mode.migration.done": "true"
   }
 }]]></component>
   <component name="RecentsManager">
