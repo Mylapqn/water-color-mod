@@ -1,6 +1,5 @@
 package com.mylapqn.thirstwatercolor.client;
 
-import cn.mlus.thirst.Thirst;
 import cn.mlus.thirst.content.registry.ThirstComponent;
 import com.mylapqn.thirstwatercolor.util.PurityColors;
 
@@ -13,10 +12,18 @@ import net.minecraft.world.item.alchemy.PotionContents;
 import net.minecraft.world.item.alchemy.Potions;
 import net.neoforged.neoforge.client.event.RegisterColorHandlersEvent;
 
+/**
+ * Handles client-side event registration for item color tinting based on water purity.
+ */
 public class ClientModEvents {
 
+    /**
+     * Registers item color handlers for water-containing items (potions, buckets, bowls).
+     *
+     * @param event the item color handlers registration event
+     */
     public static void registerItemColors(RegisterColorHandlersEvent.Item event) {
-        // 1. Tint Water Potions
+        // Tint water potions based on purity level
         event.register((stack, tintIndex) -> {
             if (tintIndex == 0) { // Layer 0: Liquid inside bottle
                 PotionContents contents = stack.get(DataComponents.POTION_CONTENTS);
@@ -31,7 +38,7 @@ public class ClientModEvents {
             return -1;
         }, Items.POTION);
 
-        // 2. Tint Water Buckets
+        // Tint water buckets liquid overlay
         event.register((stack, tintIndex) -> {
             if (tintIndex == 1) { // Layer 1: Water liquid overlay ONLY
                 Integer purity = getPurity(stack);
@@ -43,7 +50,7 @@ public class ClientModEvents {
             return -1; // Layer 0 (Bucket body) remains unchanged
         }, Items.WATER_BUCKET);
 
-        // 3. Tint Terracotta Water Bowl
+        // Tint terracotta water bowl liquid
         event.register((stack, tintIndex) -> {
             if (tintIndex == 1) { // Layer 1: Water liquid inside bowl
                 Integer purity = getPurity(stack);
@@ -55,7 +62,7 @@ public class ClientModEvents {
             return -1; // Layer 0 (Terracotta bowl structure) remains unchanged
         }, BuiltInRegistries.ITEM.get(ResourceLocation.fromNamespaceAndPath("thirst", "terracotta_water_bowl")));
 
-        // 3. Tint Terracotta Water Bowl
+        // Tint wooden water bowl liquid
         event.register((stack, tintIndex) -> {
             if (tintIndex == 1) { // Layer 1: Water liquid inside bowl
                 Integer purity = getPurity(stack);
@@ -64,7 +71,7 @@ public class ClientModEvents {
                 }
                 return PurityColors.DEFAULT_WATER_COLOR;
             }
-            return -1; // Layer 0 (Terracotta bowl structure) remains unchanged
+            return -1; // Layer 0 (Wooden bowl structure) remains unchanged
         }, BuiltInRegistries.ITEM.get(ResourceLocation.fromNamespaceAndPath("thirst", "wooden_water_bowl")));
     }
 

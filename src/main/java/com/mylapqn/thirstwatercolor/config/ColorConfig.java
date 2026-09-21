@@ -4,6 +4,10 @@ import net.neoforged.neoforge.common.ModConfigSpec;
 
 import java.util.regex.Pattern;
 
+/**
+ * Client configuration definition for water purity color mapping.
+ * Allows custom 32-bit ARGB hex colors for different water purity levels.
+ */
 public class ColorConfig {
 
     public static final ModConfigSpec SPEC;
@@ -29,11 +33,11 @@ public class ColorConfig {
                 .define("purity_1", "0xFF63787B", ColorConfig::validateHex);
 
         PURITY_2_COLOR = builder
-                .comment("32-bit ARGB Hex color for Purity 2 (Acceptable / Murky). Default: 0xFF4E7DA3")
+                .comment("32-bit ARGB Hex color for Purity 2 (Acceptable). Default: 0xFF4E7DA3")
                 .define("purity_2", "0xFF4E7DA3", ColorConfig::validateHex);
 
         DEFAULT_WATER_COLOR = builder
-                .comment("32-bit ARGB Hex color for default pure water. Default: 0xFF3C6EFF")
+                .comment("32-bit ARGB Hex color for default water (Purified). Default: 0xFF3C6EFF")
                 .define("default_water", "0xFF3C6EFF", ColorConfig::validateHex);
 
         builder.pop();

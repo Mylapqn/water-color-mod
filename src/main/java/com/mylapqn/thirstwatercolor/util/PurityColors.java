@@ -2,14 +2,21 @@ package com.mylapqn.thirstwatercolor.util;
 
 import com.mylapqn.thirstwatercolor.config.ColorConfig;
 
+/**
+ * Utility class for resolving water purity colors from configurations and parsing ARGB hex color values.
+ */
 public final class PurityColors {
 
     public static final int DEFAULT_WATER_COLOR = 0xFF3C6EFF;
 
-    private PurityColors() {}
+    private PurityColors() {
+    }
 
     /**
-     * Returns the 32-bit ARGB color for item tinting.
+     * Returns the 32-bit ARGB color for item tinting based on the given water purity level.
+     *
+     * @param purity the water purity level (0-2)
+     * @return the resolved ARGB color integer
      */
     public static int getRGB(int purity) {
         String hexStr = switch (purity) {
@@ -20,14 +27,6 @@ public final class PurityColors {
         };
 
         return parseHex(hexStr, DEFAULT_WATER_COLOR);
-    }
-
-    /**
-     * Returns the 32-bit ARGB color for fluid tinting.
-     */
-    public static int getARGB(int purity, int defaultColor) {
-        int color = getRGB(purity);
-        return color == -1 ? defaultColor : color;
     }
 
     private static int parseHex(String hex, int fallback) {

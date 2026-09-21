@@ -6,6 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="1e30e908-d440-49b0-9ca3-f7e5f4f65fb2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/src/main/java/com/mylapqn/thirstwatercolor/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/thirstmod.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mylapqn/thirstwatercolor/ThirstWaterColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mylapqn/thirstwatercolor/ThirstWaterColor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mylapqn/thirstwatercolor/client/ClientModEvents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mylapqn/thirstwatercolor/client/ClientModEvents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mylapqn/thirstwatercolor/config/ColorConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mylapqn/thirstwatercolor/config/ColorConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mylapqn/thirstwatercolor/mixin/MixinWaterClientExtensions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mylapqn/thirstwatercolor/mixin/MixinWaterClientExtensions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mylapqn/thirstwatercolor/util/PurityColors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mylapqn/thirstwatercolor/util/PurityColors.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,61 +72,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0054861127958516" />
-      <entry key="MS500" value="1.3530636053904825" />
-      <entry key="S2" value="1.783111175504077" />
-      <entry key="S5" value="2.2044765465528595" />
-      <entry key="S10" value="2.8846948342190544" />
-      <entry key="S30" value="4.034882490454638" />
-      <entry key="S60" value="4.61992636258857" />
-      <entry key="M2" value="5.120379817589802" />
-      <entry key="M5" value="5.579809587786213" />
-      <entry key="M10" value="5.775760447005215" />
-      <entry key="M15" value="5.847118415375458" />
-      <entry key="M30" value="5.921798920681213" />
-      <entry key="H1" value="5.960446543843588" />
-      <entry key="H2" value="5.980108394942172" />
-      <entry key="H4" value="5.99002526954314" />
-      <entry key="D1" value="5.998333509316765" />
-      <entry key="W1" value="5.999761830837715" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000006718841552" />
+      <entry key="S2" value="1.0460469936804235" />
+      <entry key="S5" value="1.6180635854796823" />
+      <entry key="S10" value="3.065304611627332" />
+      <entry key="S30" value="7.154847045756523" />
+      <entry key="S60" value="9.600378743701274" />
+      <entry key="M2" value="11.399023291942918" />
+      <entry key="M5" value="12.822860321313602" />
+      <entry key="M10" value="13.383597280947813" />
+      <entry key="M15" value="13.582420851407884" />
+      <entry key="M30" value="13.787763756224384" />
+      <entry key="H1" value="13.892995828886168" />
+      <entry key="H2" value="13.946273262825462" />
+      <entry key="H4" value="13.97308007021618" />
+      <entry key="D1" value="13.995505455231566" />
+      <entry key="W1" value="13.999357728509919" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="5.963028445179427E-55" />
-      <entry key="MS500" value="1.4292012132695386E-11" />
-      <entry key="S2" value="0.0019443450735754232" />
-      <entry key="S5" value="0.08232075362420527" />
-      <entry key="S10" value="0.28691593476871463" />
-      <entry key="S30" value="0.6595558189536902" />
-      <entry key="S60" value="0.8121304199164627" />
-      <entry key="M2" value="0.9011827894031615" />
-      <entry key="M5" value="0.9592353069384553" />
-      <entry key="M10" value="0.979405588578325" />
-      <entry key="M15" value="0.9862228302567452" />
-      <entry key="M30" value="0.9930875239659119" />
-      <entry key="H1" value="0.9965377684593353" />
-      <entry key="H2" value="0.9982673832492653" />
-      <entry key="H4" value="0.9991333160541014" />
-      <entry key="D1" value="0.9998555004854653" />
-      <entry key="W1" value="0.999979355933721" />
+      <entry key="MS100" value="8.036870317605356E-19" />
+      <entry key="MS500" value="2.4044590891004642E-4" />
+      <entry key="S2" value="0.12452439156116837" />
+      <entry key="S5" value="0.4354931298874148" />
+      <entry key="S10" value="0.6889345065446958" />
+      <entry key="S30" value="1.1799556534324218" />
+      <entry key="S60" value="1.4893551889176764" />
+      <entry key="M2" value="1.7118245239771885" />
+      <entry key="M5" value="1.8755803234031596" />
+      <entry key="M10" value="1.9361454534267537" />
+      <entry key="M15" value="1.957055366652473" />
+      <entry key="M30" value="1.9783377963076525" />
+      <entry key="H1" value="1.9891209672458758" />
+      <entry key="H2" value="1.9945484430106766" />
+      <entry key="H4" value="1.9972712040856944" />
+      <entry key="D1" value="1.9995447809766824" />
+      <entry key="W1" value="1.9999349584244122" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.06839335632879621" />
-      <entry key="MS500" value="0.584793951221228" />
-      <entry key="S2" value="0.9021807081526065" />
-      <entry key="S5" value="1.4672929800772283" />
-      <entry key="S10" value="2.528639452630043" />
-      <entry key="S30" value="4.3792184180562455" />
-      <entry key="S60" value="5.2562032096980005" />
-      <entry key="M2" value="5.928476303084286" />
-      <entry key="M5" value="6.500482795891911" />
-      <entry key="M10" value="6.735655538981295" />
-      <entry key="M15" value="6.8202826204402305" />
-      <entry key="M30" value="6.908331154939395" />
-      <entry key="H1" value="6.953700142182775" />
-      <entry key="H2" value="6.976732057909438" />
-      <entry key="H4" value="6.988336316160563" />
-      <entry key="D1" value="6.998051908007795" />
-      <entry key="W1" value="6.999721599407075" />
+      <entry key="MS100" value="1.2634362349730635E-9" />
+      <entry key="MS500" value="0.016608586653145057" />
+      <entry key="S2" value="0.4219479699740111" />
+      <entry key="S5" value="1.4541965096678502" />
+      <entry key="S10" value="3.2500644322315186" />
+      <entry key="S30" value="7.978368844018233" />
+      <entry key="S60" value="10.85331939157599" />
+      <entry key="M2" value="12.972475447357034" />
+      <entry key="M5" value="14.637289030769152" />
+      <entry key="M10" value="15.288106421292092" />
+      <entry key="M15" value="15.518142220102087" />
+      <entry key="M30" value="15.755311073262884" />
+      <entry key="H1" value="15.87669032126891" />
+      <entry key="H2" value="15.93810061347857" />
+      <entry key="H4" value="15.968988758596783" />
+      <entry key="D1" value="15.994822876218832" />
+      <entry key="W1" value="15.99926020021826" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -133,33 +141,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.water-color-mod [:net.neoforged.devlaunch.Main.main()].executor": "Run",
-    "Gradle.water-color-mod [build].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Files/Projects/Minecraft Mods/water-color-mod",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Files/Projects/water-color-mod/libs/src/main/java/com/mylapqn/thirstwatercolor/Main.java",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.water-color-mod [:net.neoforged.devlaunch.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.water-color-mod [build].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Files/Projects/Minecraft Mods/water-color-mod&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Files/Projects/water-color-mod/libs/src/main/java/com/mylapqn/thirstwatercolor/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Files\Projects\water-color-mod\libs" />
@@ -259,17 +267,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/libs/src/main/java/com/mylapqn/thirstwatercolor/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

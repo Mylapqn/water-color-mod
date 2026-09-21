@@ -12,8 +12,10 @@ import net.neoforged.fml.loading.FMLEnvironment;
 public class ThirstWaterColor {
     public static final String MODID = "thirstwatercolor";
 
+    /**
+     * Constructs the main mod instance and sets up event bus listeners and configuration registration.
+     */
     public ThirstWaterColor(IEventBus modEventBus, ModContainer modContainer) {
-        // Register client config file
         modContainer.registerConfig(ModConfig.Type.CLIENT, ColorConfig.SPEC);
 
         if (FMLEnvironment.dist.isClient()) {
